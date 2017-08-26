@@ -12,6 +12,7 @@ The ability to maintain privacy from governments, corporations, and our peers is
 * Sending personal data to a company, even one you trust, means it is out of your hands and at risk of being hacked or sold.
 
 ## Why you shouldn't allow other people to track you
+* Social boundaries are created when we are able to keep parts of our life private. You might want to prevent some people—former partners, employers, or family—from knowing certain information about you.
 * Your actions can be misinterpreted, and if you aren't in control of what other people know about you, anything you do may be misinterpreted or presented in a way that reflects poorly on you.
 
 --- WIP section ---
@@ -20,3 +21,5 @@ The ability to maintain privacy from governments, corporations, and our peers is
 ### • Your information can be used to control you.
 ### • Not all of your information is yours to give away.
 ### • By exercising your right to privacy, you make it easier for others to do so without sticking out.
+
+#### In the surveillance age, dissent—which was once stifled in the streets—will be stifled in the mind.
