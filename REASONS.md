@@ -8,7 +8,7 @@ If a government can read your private communications, it can predict your action
 
 ---
 ### Without privacy, you might be so afraid that you're being judged by others that you won't try or learn new things, even if you're not doing anything wrong.
-If you knew your internet activity was being monitored by the government, for example, you may be reluctant to speak up against the government, organize a protest, or research sensitive topics. You would "self-censor" yourself: because you knew you were being monitored, you would be less likely to do things that could be taken by the government or company monitoring you as adversarial. In the past, dissent was struck down on the streets. In the surveillance age, it is struck down in the mind.
+If you knew your internet activity was being monitored by the government, for example, you may be reluctant to speak up against the government, organize a protest, or research sensitive topics. You would "self-censor" yourself: because you knew you were being monitored, you would be less likely to do things that could be taken by the government or company monitoring you as suspicious.
 
 ---
 ### Your personal information and private communications can be "cherrypicked" to make you look like a bad person or a criminal, even if you're not.
@@ -33,6 +33,22 @@ If activists and journalists are the only people in an entire country using encr
 ---
 ### Social boundaries are created when we are able to keep parts of our life private. You might want to prevent some people, such as former partners, employers, or family, from knowing certain things about you.
 [...]
+
+-----
+
+## Great quotes
+
+*"In the past, dissent was struck down on the streets. In the surveillance age, it is struck down in the mind."*
+
+—Unknown
+
+*"If you give me six lines written by the hand of the most honest of men, I will find something in them which will hang him."*
+
+—Cardinal Richelieu
+
+*"There is only one reason government collects data about everyone and it isn't good. It is done to maintain control over the population."*
+
+—William Binney
 
 -----
 <a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
