@@ -4,19 +4,19 @@ The ability to maintain privacy from governments, corporations, and our peers is
 
 ---
 ### Knowledge is power; Knowledge about you is power over you. Your information will be used to anticipate your actions and manipulate the way you shop, vote, and think.
-If a government can read your private communications, it can predict your actions and prevent you from acting adversarially. [...]
+If a government can read your private communications, it can predict your actions and prevent you from acting adversarially. [examples]
 
 ---
 ### Without privacy, you might be so afraid that you're being judged by others that you won't try or learn new things, even if you're not doing anything wrong.
-If you knew your internet activity was being monitored by the government, for example, you may be reluctant to speak up against the government, organize a protest, or research sensitive topics. You would "self-censor" yourself: because you knew you were being monitored, you would be less likely to do things that could be taken by the government or company monitoring you as suspicious.
+If you knew your internet activity was being monitored by the government, for example, you may be reluctant to speak up against the government, organize a protest, or research sensitive topics. [examples]
 
 ---
 ### Your personal information and private communications can be "cherrypicked" to make you look like a bad person or a criminal, even if you're not.
-Messages can be taken out of context to tell a story very different from the truth. [...]
+Messages can be taken out of context to tell a story very different from the truth. [examples]
 
 ---
 ### Not all information in your control is yours to share. Information shared privately with you by friends, family, and coworkers is not yours to reveal to a government, company, or another person.
-Every time someone has ever shared anything with you privately, they did so because they wanted only *you* to know what they had to say. If you were to release all your emails to the public, for example, it's not just your own privacy you would be violating. You would also be violating the privacy of everyone you've emailed *with*.
+Every time someone has ever shared anything with you privately, they did so because they wanted only *you* to know what they had to say. If you were to release all your emails to the public, for example, it's not just your own privacy you would be violating. You would also be violating the privacy of all your correspondents.
 
 ---
 ### By exercising your right to privacy, you make it easier for others, such as activists and journalists, to do so without sticking out.
@@ -24,15 +24,15 @@ If activists and journalists are the only people in an entire country using encr
 
 ---
 ### You are not and will not be judged by your own standards. Standards differ between people and organizations, and standards shift with time. Even if your behavior is deemed acceptable today, it can be held against you tomorrow.
-[...]
+Although your behavior might be considered ethical and legal today, standards and laws can shift over time and your behavior may one day become *unethical* or even *illegal*. [examples]
 
 ---
 ### Sharing personal data, even with a party you trust, means it is out of your control and at risk of being hacked or sold.
-[...]
+When you share your personal data with another company, you lose control of that data: even if you trust the company not to misuse your information, there is always the risk that it could be sold to a third party or hacked. [examples]
 
 ---
 ### Social boundaries are created when we are able to keep parts of our life private. You might want to prevent some people, such as former partners, employers, or family, from knowing certain things about you.
-[...]
+[examples]
 
 -----
 
