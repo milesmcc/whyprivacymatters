@@ -1,5 +1,7 @@
 ---
-title: Contributors
+title: Contributors to Why Privacy Matters
+description: The wonderful people who have contributed their time and effort to the project.
+lang: en 
 layout: default
 ---
 
