@@ -1,5 +1,6 @@
 ---
 title: Why Privacy Matters
+description: A simple list of reasons why privacy matters.
 ---
 
 ### Knowledge is power; Knowledge about you is power over you. Your information will be used to anticipate your actions and manipulate the way you shop, vote, and think.
