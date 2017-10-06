@@ -1,11 +1,13 @@
 ---
 title: Contributors to Why Privacy Matters
 description: The wonderful people who have contributed their time and effort to the project.
-lang: en 
+lang: en
 layout: default
 ---
 
 Much of the content was compiled out of [this](https://www.reddit.com/r/privacy/comments/6w5nw6/why_does_privacy_matter_help_me_write_16_short/) Reddit discussion. Below, all contributors are listed.
+
+## [Return Home](/)
 
 **Project lead** — [Miles McCain](https://rmrm.io)
 
