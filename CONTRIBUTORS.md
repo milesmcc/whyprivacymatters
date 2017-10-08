@@ -17,6 +17,8 @@ Much of the content was compiled out of [this](https://www.reddit.com/r/privacy/
 
 * [Danish](/translations/da.html): [swedenisntrealok](https://www.reddit.com/r/translator/comments/752qcf/english_any_translating_whyprivacymattersorg_a/do33mt9/)
 
+* [Esperanto](/translations/eo.html): [Terpomo11](https://www.reddit.com/r/translator/comments/752qcf/english_any_translating_whyprivacymattersorg_a/do3b275/)
+
 ### Other contributors
 * [abeer0022](https://www.reddit.com/r/privacy/comments/6w5nw6/why_does_privacy_matter_help_me_write_16_short/dm5i5vt/?utm_content=permalink&utm_medium=front&utm_source=reddit&utm_name=privacy)
 
