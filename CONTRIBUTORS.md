@@ -2,12 +2,14 @@
 title: Contributors to Why Privacy Matters
 description: The wonderful people who have contributed their time and effort to the project.
 lang: en
-layout: default
 ---
 
 Much of the content was compiled out of [this](https://www.reddit.com/r/privacy/comments/6w5nw6/why_does_privacy_matter_help_me_write_16_short/) Reddit discussion. Below, all contributors are listed.
 
 **Project lead** — [Miles McCain](https://rmrm.io)
+
+### Translators
+* [Portuguese](translations/pt.md): [Nekiga](https://www.reddit.com/r/translator/comments/752qcf/english_any_translating_whyprivacymattersorg_a/do2zvbr/)
 
 ### Other contributors
 * [abeer0022](https://www.reddit.com/r/privacy/comments/6w5nw6/why_does_privacy_matter_help_me_write_16_short/dm5i5vt/?utm_content=permalink&utm_medium=front&utm_source=reddit&utm_name=privacy)
