@@ -1,3 +1,9 @@
+---
+title: Why Privacy Matters
+description: Privacy is important. Here are some simple reasons why.
+lang: en
+---
+
 ### Knowledge is power; Knowledge about you is power over you. Your information will be used to anticipate your actions and manipulate the way you shop, vote, and think.
 
 ---
@@ -23,24 +29,8 @@
 
 -----
 
-## Relevant quotes
-
-*"In the past, dissent was struck down on the streets. In the surveillance age, it is struck down in the mind."*
-
-—Unknown
-
-*"If you give me six lines written by the hand of the most honest of men, I will find something in them which will hang him."*
-
-—Cardinal Richelieu
-
-*"There is only one reason government collects data about everyone and it isn't good. It is done to maintain control over the population."*
-
-—William Binney
-
------
-
 ## Next Steps
 Want to take steps to protect yourself? Follow [this](https://ssd.eff.org/) guide by the Electronic Frontier Foundation.
 
 -----
-<a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>. Please attribute this work to `WhyPrivacyMatters.org`.
+{% include license.html %}

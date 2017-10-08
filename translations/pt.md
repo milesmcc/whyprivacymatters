@@ -35,4 +35,5 @@ lang: pt
 Quer tomar medidas para se proteger? Siga [este](https://ssd.eff.org/) guia pela Electronic Frontier Foundation.
 
 -----
-<a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/>Creative Commons Attribution-ShareAlike 4.0 International License</a>. Please attribute this work to `WhyPrivacyMatters.org`. Portuguese translation by [Nekiga](https://www.reddit.com/r/translator/comments/752qcf/english_any_translating_whyprivacymattersorg_a/do2zvbr/).
+{% include license.html %}
+Portuguese translation by [Nekiga](https://www.reddit.com/r/translator/comments/752qcf/english_any_translating_whyprivacymattersorg_a/do2zvbr/).
