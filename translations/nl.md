@@ -6,28 +6,28 @@ lang: nl
 
 # Waarom Privacy Uitmaakt
 
-### Kennis betekent macht; kennis over u betekent macht over u. Uw informatie wordt gebruikt om uw handelingen te voorspellen en de manier waarop u winkelt, te accepteren en te manipuleren.
+### Kennis is kracht; kennis over u is kracht over u. Uw informatie zal worden gebruikt om uw acties te voorspellen en om de manier waarom u winkelt, stemt en denkt te manipuleren.
 
 ---
-### Zonder privacy kunt u bang zijn om door anderen beoordeeld te worden, dus u wilt geen nieuwe dingen proberen of leren. zelfs als je niets verkeerd doet.
+### Zonder privacy, zou u misschien bang kunnen zijn dat u door anderen beoordeeld wordt, waardoor u geen nieuwe dingen wil proberen of leren; zelfs als u niks verkeerds doet.
 
 ---
-### In uw persoonlijke informatie en privécommunicatie kan selectieve selectie worden gemaakt om u als slecht persoon of crimineel te tonen, ook al is u niet.
+### In uw persoonlijke informatie en privécommunicatie kan selectief gewinkeld worden om u een slecht persoon of crimineel te laten lijken, zelfs als u dat niet bent.
 
 ---
-### Niet alle informatie in uw bezit is slim voor u om te delen. Informatie die privé met je wordt gedeeld, bijvoorbeeld door vrienden, familie of collega's, kan niet gedeeld worden met de overheid, het bedrijf of een andere persoon.
+### Niet alle informatie in uw bezit is slim om voor u te delen. Informatie dat in het privé met u gedeeld wordt door bijvoorbeeld vrienden, familie of collega's kan u niet zomaar delen met de overheid, een bedrijf of een ander persoon.
 
 ---
-### Door uw recht op privacy te gebruiken, maakt u het voor anderen, zoals activisten en journalisten, eenvoudiger om hetzelfde te doen zonder te offeren.
+### Door uw recht tot privacy te benutten, maak u het makkelijker voor anderen, zoals activisten en journalisten, om hetzelfde te doen zonder op te vallen.
 
 ---
-### U bent en zal niet beoordeeld worden volgens uw eigen normen en waarden. Deze verschillen per persoon, per organisatie en op tijd. Zelfs als uw gedrag vandaag aanvaardbaar wordt beschouwd, kan het morgen nog steeds worden gebruikt.
+### U wordt en zal niet beoordeeld worden op u eigen normen en waarden. Deze verschillen per persoon, per organisatie en per tijd. Zelfs als u gedrag vandaag als acceptabel beschouwd wordt, kan het morgen nog tegen u gebruikt worden.
 
 ---
-### Deel uw persoonlijke gegevens, zelfs bij een feest die u vertrouwt dat het niet uit uw hand komt en u wordt getroffen of verkocht.
+### U persoonlijke data delen, zelfs met een partij die u vertrouwt, betekent dat het uit uw handen is en risico loopt om gehackt of verkocht te worden.
 
 ---
-### Sociale grenzen worden opgelegd wanneer we privé delen van ons leven kunnen houden. U kunt voorkomen dat bepaalde mensen, zoals vroegere partners, agentschappen of familieleden, bepaalde dingen over u weten.
+### Sociale grenzen worden gesteld wanneer we delen van ons leven privé kunnen houden. U zou misschien willen voorkomen dat bepaalde mensen zoals voormalige partners, bazen of familie bepaalde dingen over u te weten komen.
 
 -----
 
