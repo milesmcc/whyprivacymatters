@@ -1,6 +1,6 @@
 ---
-title: Motivos de Privacidade
-description: A privacidade é importante. Aqui estão alguns motivos simples.
+title: O porquê da privacidade importar
+description: Privacidade é importante. Aqui estão algumas razões simples do porquê.
 lang: pt
 ---
 
