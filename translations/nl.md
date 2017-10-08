@@ -6,7 +6,7 @@ lang: nl
 
 # Waarom Privacy Uitmaakt
 
-### Kennis is macht; kennis over u heeft macht over u Uw informatie wordt gebruikt om uw handelingen te voorspellen en de manier waarop u winkelt, te accepteren en te manipuleren.
+### Kennis betekent macht; kennis over u betekent macht over u. Uw informatie wordt gebruikt om uw handelingen te voorspellen en de manier waarop u winkelt, te accepteren en te manipuleren.
 
 ---
 ### Zonder privacy kunt u bang zijn om door anderen beoordeeld te worden, dus u wilt geen nieuwe dingen proberen of leren. zelfs als je niets verkeerd doet.
