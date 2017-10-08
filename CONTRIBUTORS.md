@@ -9,13 +9,13 @@ Much of the content was compiled out of [this](https://www.reddit.com/r/privacy/
 **Project lead** — [Miles McCain](https://rmrm.io)
 
 ### Translators
-* [Portuguese](/translations/PT.html): [Nekiga](https://www.reddit.com/r/translator/comments/752qcf/english_any_translating_whyprivacymattersorg_a/do2zvbr/)
+* [Portuguese](/translations/pt.html): [Nekiga](https://www.reddit.com/r/translator/comments/752qcf/english_any_translating_whyprivacymattersorg_a/do2zvbr/)
 
-* [Spanish](/translations/ES.html): [SparklezMadeMe](https://www.reddit.com/r/translator/comments/752qcf/english_any_translating_whyprivacymattersorg_a/do31tbt/)
+* [Spanish](/translations/es.html): [SparklezMadeMe](https://www.reddit.com/r/translator/comments/752qcf/english_any_translating_whyprivacymattersorg_a/do31tbt/)
 
-* [Dutch](/translations/NL.html): [09ymmit07](https://www.reddit.com/r/translator/comments/752qcf/english_any_translating_whyprivacymattersorg_a/do32oqw/)
+* [Dutch](/translations/nl.html): [09ymmit07](https://www.reddit.com/r/translator/comments/752qcf/english_any_translating_whyprivacymattersorg_a/do32oqw/)
 
-* [Danish](/translations/DA.html): [swedenisntrealok](https://www.reddit.com/r/translator/comments/752qcf/english_any_translating_whyprivacymattersorg_a/do33mt9/)
+* [Danish](/translations/da.html): [swedenisntrealok](https://www.reddit.com/r/translator/comments/752qcf/english_any_translating_whyprivacymattersorg_a/do33mt9/)
 
 ### Other contributors
 * [abeer0022](https://www.reddit.com/r/privacy/comments/6w5nw6/why_does_privacy_matter_help_me_write_16_short/dm5i5vt/?utm_content=permalink&utm_medium=front&utm_source=reddit&utm_name=privacy)
