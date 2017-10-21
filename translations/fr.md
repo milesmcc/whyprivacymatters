@@ -27,7 +27,7 @@ lang: fr
 ### Partager vos données, même avec un tiers de confiance, implique que ces données sont hors de votre contrôle et sont soumise au risque d'être piratées et/ou vendues.
 
 ---
-### Des limites sociales sont crées quand nous devenont aptes à concerver une partie de notre vie privée. Vous pouvez préférer de certaines personnes tel qu'un ancien partenaire, employé ou membre de la famille qu'ils ignores certaines choses sur vous.
+### Des limites sociales sont crées quand nous devenont aptes à concerver une partie de notre vie privée. Vous pouvez préférer que certaines personnes tel qu'un ancien partenaire, employé ou membre de la famille ignorent certaines choses sur vous.
 
 -----
 
