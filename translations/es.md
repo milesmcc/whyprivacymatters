@@ -4,7 +4,7 @@ description: La privacidad es importante. Aquí hay algunas razones simples por 
 lang: es
 ---
 
-# Por qué privacidad es importante
+# Por qué la privacidad es importante
 
 ### El conocimiento es poder; el conocimiento sobre ti es poder sobre ti. Tu información será usada para anticipar tus acciones y manipular la forma que compras, votas y piensas.
 
