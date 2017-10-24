@@ -11,7 +11,7 @@ Much of the content was compiled out of [this](https://www.reddit.com/r/privacy/
 ### Translators
 * [Portuguese](/translations/pt.html): [Nekiga](https://www.reddit.com/r/translator/comments/752qcf/english_any_translating_whyprivacymattersorg_a/do2zvbr/)
 
-* [Spanish](/translations/es.html): [SparklezMadeMe](https://www.reddit.com/r/translator/comments/752qcf/english_any_translating_whyprivacymattersorg_a/do31tbt/), xavrb.
+* [Spanish](/translations/es.html): [SparklezMadeMe](https://www.reddit.com/r/translator/comments/752qcf/english_any_translating_whyprivacymattersorg_a/do31tbt/), [xavrb](https://github.com/xavrb)
 
 * [Dutch](/translations/nl.html): [09ymmit07](https://www.reddit.com/r/translator/comments/752qcf/english_any_translating_whyprivacymattersorg_a/do32oqw/)
 

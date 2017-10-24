@@ -36,4 +36,4 @@ lang: es
 
 -----
 {% include license.html %}
-Spanish translation by [SparklezMadeMe](https://www.reddit.com/r/translator/comments/752qcf/english_any_translating_whyprivacymattersorg_a/do31tbt/), little improvements by xavrb.
+Spanish translation by [SparklezMadeMe](https://www.reddit.com/r/translator/comments/752qcf/english_any_translating_whyprivacymattersorg_a/do31tbt/), little improvements by [xavrb](https://github.com/xavrb)
