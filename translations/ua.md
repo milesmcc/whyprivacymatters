@@ -29,4 +29,4 @@
 Хочете дізнатися що робити далі, щоб убезпечити себе? Прочитайте [це](https://ssd.eff.org/) керівництво від Electronic Frontier Foundation.
 
 -----
-{% Include license.html %} Ukrainian translation by [ibarakaiev](https://github.com/ibarakaiev).	
+{% include license.html %} Ukrainian translation by [ibarakaiev](https://github.com/ibarakaiev).
