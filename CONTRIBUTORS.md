@@ -35,6 +35,7 @@ Much of the content was compiled out of [this](https://www.reddit.com/r/privacy/
 
 * [Ukrainian](/translations/ua.html): [ibarakaiev](https://github.com/ibarakaiev)
 
+* [Swedish](/translations/sv.html): [Daniel Eliassen](https://github.com/danieleliassen)
 
 ### Other contributors
 * [abeer0022](https://www.reddit.com/r/privacy/comments/6w5nw6/why_does_privacy_matter_help_me_write_16_short/dm5i5vt/?utm_content=permalink&utm_medium=front&utm_source=reddit&utm_name=privacy)
