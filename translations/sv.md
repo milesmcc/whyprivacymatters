@@ -21,10 +21,10 @@ lang: sv
 ### Genom att utöva din rätt till privatliv, gör du det lättare för andra, såsom aktivister och journalister att göra detsamma utan att sticka ut.
 
 ---
-### Du är inte och kommer inte att dömas efter dina egna standarder. Standarder skiljer sig mellan människor och organisationer, och standarder varierar över tid. Även om ditt beteende anses vara acceptabelt idag, kan det användas emot dig imorgon.
+### Du döms inte och kommer inte att dömas efter dina egna standarder. Standarder skiljer sig mellan människor och organisationer, och standarder varierar över tid. Även om ditt beteende anses vara acceptabelt idag, kan det komma att användas emot dig imorgon.
 
 ---
-### Att dela personlig information, även med en part du litar på, betyder att den är utanför din kontroll och i risk för att bli hackad eller såld.
+### Att dela personlig information, även med en part du litar på, innebär att informationen är utanför din kontroll och i risk för att bli hackad eller såld.
 
 ---
 ### Sociala gränser skapas när vi har möjlighet att hålla delar av vårat liv privat. Det kan komma sig att du vill hindra personer, såsom tidigare partners, arbetsgivare, eller familj, från att känna till vissa saker om dig.
