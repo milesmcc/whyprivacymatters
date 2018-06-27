@@ -36,4 +36,4 @@ Vill du ta några steg skydda dig själv? Följ [denna](https://ssd.eff.org/) gu
 
 -----
 {% include license.html %}
-Swedish translation by [danieleliassen](https://github.com/danieleliassen)
+Swedish translation by [Daniel Eliassen](https://github.com/danieleliassen)
