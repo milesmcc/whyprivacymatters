@@ -1,38 +1,38 @@
 ---
-title:
-description:
-lang:
+title: Varför privatliv är viktigt
+description: Privatliv är viktigt. Här är några enkla anledningar till det.
+lang: sv
 ---
 
-# Reasons Privacy Matters
+# Anledningar till varför privatliv är betydelsefullt
 
-### Knowledge is power; Knowledge about you is power over you. Your information will be used to anticipate your actions and manipulate the way you shop, vote, and think.
-
----
-### Without privacy, you might be so afraid that you're being judged by others that you won't try or learn new things, even if you're not doing anything wrong.
+### Kunskap är makt; Kunskap om dig är makt över dig. Din information kommer att användas för att förutse dina handlingar och manipulera sättet du handlar, röstar, och tänker på.
 
 ---
-### Your personal information and private communications can be "cherrypicked" to make you look like a bad person or a criminal, even if you're not.
+### Utan privatliv kan det vara så att du är så rädd för att du ska dömas av andra, att du inte vill prova eller lära dig ny saker, även om du inte skulle göra något fel.
 
 ---
-### Not all information in your control is yours to share. Information shared privately with you by friends, family, and coworkers is not yours to reveal to a government, company, or another person.
+### Din personliga information och privata kommunikationer kan handplockas för att få dig att uppfattas som en dålig-, eller kriminell person, även om du inte är det.
 
 ---
-### By exercising your right to privacy, you make it easier for others, such as activists and journalists, to do so without sticking out.
+### Inte all information du har tillgång till är din att dela. Information som delats privat med dig av dina vänner, familj, och kollegor är inte din att avslöja för en regering, ett företag, eller en annan person.
 
 ---
-### You are not and will not be judged by your own standards. Standards differ between people and organizations, and standards shift with time. Even if your behavior is deemed acceptable today, it can be held against you tomorrow.
+### Genom att utöva din rätt till privatliv, gör du det lättare för andra, såsom aktivister och journalister att göra detsamma utan att sticka ut.
 
 ---
-### Sharing personal data, even with a party you trust, means it is out of your control and at risk of being hacked or sold.
+### Du är inte och kommer inte att dömas efter dina egna standarder. Standarder skiljer sig mellan människor och organisationer, och standarder varierar över tid. Även om ditt beteende anses vara acceptabelt idag, kan det användas emot dig imorgon.
 
 ---
-### Social boundaries are created when we are able to keep parts of our life private. You might want to prevent some people, such as former partners, employers, or family, from knowing certain things about you.
+### Att dela personlig information, även med en part du litar på, betyder att den är utanför din kontroll och i risk för att bli hackad eller såld.
+
+---
+### Sociala gränser skapas när vi har möjlighet att hålla delar av vårat liv privat. Det kan komma sig att du vill hindra personer, såsom tidigare partners, arbetsgivare, eller familj, från att känna till vissa saker om dig.
 
 -----
 
-## Next Steps
-Want to take steps to protect yourself? Follow [this](https://ssd.eff.org/) guide by the Electronic Frontier Foundation.
+## Nästa stegen
+Vill du ta några steg skydda dig själv? Följ [denna](https://ssd.eff.org/) guide av Electronic Frontier Foundation.
 
 -----
 {% include license.html %}
