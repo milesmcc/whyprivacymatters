@@ -1,0 +1,15 @@
+# Site settings
+title:
+email:
+author:
+description:
+url:
+
+# Gems
+gems:
+- jekyll-seo-tag
+
+# Build Settings
+permalink: :title/
+sass:
+  sass_dir: css
