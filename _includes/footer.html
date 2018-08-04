@@ -1,0 +1,17 @@
+<footer>
+  <div id='footer' class='container-fluid py-3'>
+    <div class='row'>
+      <!-- Need to make this row division disappear if size shrinks. -->
+      <div class='offset-4 col-2 text-right'>
+        <p>This website is a collaborative project maintained by <a href="https://rmrm.io">Miles McCain</a>. View the contributors <a href="">here</a>.</p>
+        <p class="view"><a href="{{ site.github.repository_url }}">View the Project on GitHub <small>{{ github_name }}</small></a></p>
+      </div>
+      <div class='col-2'>
+        {% include license.html %}
+      </div>
+    </div>
+    <div class='text-center'>
+      <p><small>Hosted on GitHub Pages.</small></p>
+    </div>
+  </div>
+</footer>

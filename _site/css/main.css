@@ -6496,3 +6496,12 @@ a.text-dark:hover, a.text-dark:focus {
 
 p {
   font-family: 'Cabin', sans-serif; }
+
+p {
+  font-family: 'Cabin', sans-serif; }
+
+#footer {
+  background-color: #d6d6d6; }
+
+.col-2 {
+  min-width: 100px; }
