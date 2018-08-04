@@ -6,6 +6,8 @@ p {
   background-color: #d6d6d6;
 }
 
-.col-2 {
-  min-width: 100px;
+@media only screen and (max-width: 768px) {
+    .text-center-small {
+        text-align: center !important;
+    }
 }

@@ -1,9 +1,9 @@
 # Site settings
-title:
-email:
-author:
-description:
-url:
+title: Why Privacy Matters
+logo: assets/icon.png
+description: Privacy is important. Here are some simple reasons why.
+# url: https://whyprivacymatters.org
+
 
 # Gems
 gems:
