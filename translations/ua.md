@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Чому ваша конфіденційність важлива
 
 ### Знання - сила. Знання про вас - сила напрямлена проти вас. Ваша інформація буде використана щоб передбачити ваші дії та маніпулювати тим, що ви купуєте, як голосуєте та як думаєте.
@@ -29,4 +33,4 @@
 Хочете дізнатися що робити далі, щоб убезпечити себе? Прочитайте [це](https://ssd.eff.org/) керівництво від Electronic Frontier Foundation.
 
 -----
-{% include license.html %} Ukrainian translation by [ibarakaiev](https://github.com/ibarakaiev).
+Ukrainian translation by [ibarakaiev](https://github.com/ibarakaiev).

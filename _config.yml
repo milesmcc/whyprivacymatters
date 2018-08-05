@@ -13,3 +13,11 @@ gems:
 permalink: :title/
 sass:
   sass_dir: css
+
+# Paths
+defaults:
+  -
+    scope:
+      path: "README.md"
+    values:
+      permalink: "/"

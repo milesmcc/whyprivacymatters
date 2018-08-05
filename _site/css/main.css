@@ -6497,12 +6497,29 @@ a.text-dark:hover, a.text-dark:focus {
 p {
   font-family: 'Cabin', sans-serif; }
 
-p {
-  font-family: 'Cabin', sans-serif; }
-
 #footer {
   background-color: #d6d6d6; }
 
 @media only screen and (max-width: 768px) {
   .text-center-small {
     text-align: center !important; } }
+body {
+  background-color: #f6f6f6; }
+
+h1, h2 {
+  font-family: 'Lato', sans-serif;
+  font-weight: 700; }
+
+h3, h4 {
+  font-family: 'Cabin', sans-serif; }
+
+p {
+  font-family: 'Cabin', sans-serif; }
+
+.main-container {
+  width: 40%;
+  min-width: 300px; }
+
+@media only screen and (max-width: 1024px) {
+  .main-container {
+    width: 60% !important; } }
