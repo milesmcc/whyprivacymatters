@@ -6,8 +6,10 @@
   <body>
     {% include header.html %}
 
-    <section class='container main-container text-center'>
-      {% include lang.html %}
+    <section class='container main-container pt-2'>
+      <div class='text-center'>
+        {% include lang.html %}
+      </div>
       <div class='pb-5'>
         {{ content }}
       </div>

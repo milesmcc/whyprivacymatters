@@ -1,3 +1,7 @@
+.bg {
+  background-color: #006596;
+}
+
 #title {
   font-family: 'Lato', sans-serif;
   font-weight: 700;
@@ -5,4 +9,43 @@
 
 p {
   font-family: 'Cabin', sans-serif;
+}
+
+a.title-link:link, a.title-link:visited {
+  color: white;
+  text-decoration: none;
+}
+
+a.title-link:hover, a.title-link:active {
+  color: #DAF0F8;
+}
+
+.text-link {
+  // #DAF0F8
+  border-bottom: 1px dotted #D3D3D3;
+}
+
+a.text-link:link, a.text-link:visited {
+  color: white;
+  text-decoration: none;
+}
+
+a.text-link:hover, a.text-link:active {
+  border-bottom: 1px dotted white;
+}
+
+.head-container {
+  width: 60%;
+}
+
+@media only screen and (max-width: 1024px) {
+  .head-container {
+    width: 80%;
+  }
+}
+
+@media only screen and (max-width: 768px) {
+  .head-container {
+    width: 100%;
+  }
 }

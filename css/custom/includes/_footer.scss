@@ -7,3 +7,16 @@
         text-align: center !important;
     }
 }
+
+.footer-text-link {
+  border-bottom: 1px dotted #999999;
+}
+
+a.footer-text-link:link, a.footer-text-link:visited {
+  color: black;
+  text-decoration: none;
+}
+
+a.footer-text-link:hover, a.footer-text-link:active {
+  border-bottom: 1px dotted black;
+}
