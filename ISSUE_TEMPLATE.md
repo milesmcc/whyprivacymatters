@@ -1,5 +1,0 @@
-**Issue type:** (rephrase text/incorrect translation/website error/other)
-**Short description:** (max ~15 words)
-**Expected:** (what you *expected* to happen)
-**Observed:** (what *actually* happened)
-**Long description:** (describe the issue!)
