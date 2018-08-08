@@ -1,4 +1,8 @@
-# The Backstory of WhyPrivacyMatters.org
+---
+layout: other
+---
+
+## The Backstory of WhyPrivacyMatters
 
 We're tired of long essays explaining why privacy is important. People don't read essays. If we want understanding privacy to be accessible, we need to have a series of easily-understandable bullet points that explain why privacy matters in **clear, accessible language.**
 
