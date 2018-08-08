@@ -1,0 +1,39 @@
+<!doctype html>
+<html lang="{{ site.lang | default: "en-US" }}">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="chrome=1">
+
+    {% seo %}
+
+    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+    <meta name="viewport" content="width=device-width">
+    <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+  </head>
+  <body>
+    <div class="wrapper">
+      <header>
+        <h1><a href="https://whyprivacymatters.org">Why Privacy Matters</a></h1>
+        <p>The ability to maintain privacy from governments, corporations, and our peers is fundamental to a free, democratic, and equitable society.</p>
+        <p>WhyPrivacyMatters.org aims to collect easily understandable reasons why privacy matters in simple language. <a href="/why.html">Learn more about why this site was created.</a></p>
+        {% if site.github.is_project_page %}
+          <p class="view"><a href="{{ site.github.repository_url }}">View the Project on GitHub <small>{{ github_name }}</small></a></p>
+        {% endif %}
+      </header>
+      <section>
+
+      {{ content }}
+
+      </section>
+      <footer>
+        {% include translations.html %}
+        <hr>
+        <p>This website is a collaborative project maintained by <a href="https://rmrm.io">Miles McCain</a>. View the contributors <a href="/CONTRIBUTORS.html">here</a>.</p>
+        <p><small>Hosted on GitHub Pages.</small></p>
+      </footer>
+    </div>
+    <script src="{{ '/assets/js/scale.fix.js' | relative_url }}"></script>
+  </body>
+</html>
