@@ -1,13 +1,14 @@
 <footer>
   <div id='footer' class='container-fluid py-3'>
-    <div class='row'>
-      <!-- Need to make this row division disappear if size shrinks. -->
-      <div class='col-12 offset-md-4 col-md-2 text-center-small text-right'>
-        <p class='hold-font-size'>This website is a collaborative project maintained by <a class='footer-text-link' href="https://rmrm.io">Miles McCain</a>.
-          View the contributors <a class='footer-text-link' href="CONTRIBUTORS">here</a>.
+    <div class='row justify-content-center'>
+      <div class='col-12 col-sm-10 col-md-8 col-lg-6 col-xl-5'>
+        <p class='hold-font-size text-center'>This website is a collaborative project maintained by <a class='footer-text-link' href="https://rmrm.io">Miles McCain</a>.
+          View the contributors <a class='footer-text-link' href="{{ '/CONTRIBUTORS' | relative_url }}">here</a>.
           <br />View the Project on <a class='footer-text-link' href="{{ site.github.repository_url }}">GitHub</a></p>
       </div>
-      <div class='col-12 col-md-2 text-center-small'>
+    </div>
+    <div class='row justify-content-center'>
+      <div class='col-12 col-sm-10 col-md-8 col-lg-6 col-xl-5'>
         {% include license.html %}
       </div>
     </div>

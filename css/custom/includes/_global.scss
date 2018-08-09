@@ -3,17 +3,17 @@ body {
 }
 
 h2, h3 {
-  font-family: 'Lato', sans-serif;
+  font-family: 'IBM Plex Sans', sans-serif;
   font-weight: 700;
 }
 
 h4 {
-  font-family: 'Ubuntu', sans-serif;
+  font-family: 'IBM Plex Sans', sans-serif;
   font-size: 1.3em;
 }
 
 p {
-  font-family: 'Ubuntu', sans-serif;
+  font-family: 'IBM Plex Sans', sans-serif;
   font-size: 1.05em;
 }
 
@@ -23,11 +23,29 @@ strong {
 
 .main-container {
   width: 40%;
-  min-width: 300px;
+  min-width: 200px;
 }
 
-@media only screen and (max-width: 1024px) {
+@media only screen and (max-width: 1200px) {
     .main-container {
-        width: 60% !important;
+        width: 50%;
+    }
+}
+
+@media only screen and (max-width: 992px) {
+    .main-container {
+        width: 60%;
+    }
+}
+
+@media only screen and (max-width: 768px) {
+    .main-container {
+        width: 75%;
+    }
+}
+
+@media only screen and (max-width: 576px) {
+    .main-container {
+        width: 90%;
     }
 }
