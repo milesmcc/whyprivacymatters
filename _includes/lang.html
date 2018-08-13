@@ -1,9 +1,11 @@
-<div class='container py-4'>
+<div class="lang">
   <div class="dropdown">
-    <button class="btn btn-secondary dropdown-toggle" type="button" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-      Language
+    <button class="btn btn-outline-secondary btn-lg dropdown-toggle" type="button" id="dropdownMenuButton" data-toggle="dropdown"
+      aria-haspopup="true" aria-expanded="false">
+      <i class="fa fa-language" aria-hidden="true"></i>
     </button>
     <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
+      <a class="dropdown-item" href="{{ '/' | relative_url }}">English</a>
       <a class="dropdown-item" href="{{ '/translations/es' | relative_url }}">Español</a>
       <a class="dropdown-item" href="{{ '/translations/fr' | relative_url }}">Français</a>
       <a class="dropdown-item" href="{{ '/translations/ru' | relative_url }}">Русский</a>

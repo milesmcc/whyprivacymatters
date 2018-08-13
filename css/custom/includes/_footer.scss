@@ -1,5 +1,5 @@
 #footer {
-  background-color: #d6d6d6;
+  background-color: darken($primary, 5);
 }
 
 @media only screen and (max-width: 768px) {
@@ -10,17 +10,4 @@
 
 .hold-font-size {
   font-size: 1em;
-}
-
-.footer-text-link {
-  border-bottom: 1px dotted #999999;
-}
-
-a.footer-text-link:link, a.footer-text-link:visited {
-  color: black;
-  text-decoration: none;
-}
-
-a.footer-text-link:hover, a.footer-text-link:active {
-  border-bottom: 1px dotted black;
 }

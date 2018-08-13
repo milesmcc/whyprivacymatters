@@ -1,47 +1,39 @@
-.bg {
-  background-color: #006596;
+header {
+  min-height: 300px;
 }
 
-#title {
-  font-family: 'IBM Plex Sans', sans-serif;
-  font-weight: 700;
+svg {
+  position: absolute;
+  top: 230px;
+  left: calc(50% - 55px);
+  animation: squeeze 2.3s infinite;
 }
 
-a.title-link:link, a.title-link:visited {
-  color: white;
-  text-decoration: none;
+#inner {
+  animation: blink 2.3s infinite;
 }
 
-a.title-link:hover, a.title-link:active {
-  color: #DAF0F8;
-}
-
-.text-link {
-  // #DAF0F8
-  border-bottom: 1px dotted #D3D3D3;
-}
-
-a.text-link:link, a.text-link:visited {
-  color: white;
-  text-decoration: none;
-}
-
-a.text-link:hover, a.text-link:active {
-  border-bottom: 1px dotted white;
-}
-
-.head-container {
-  width: 60%;
-}
-
-@media only screen and (max-width: 1024px) {
-  .head-container {
-    width: 80%;
+@keyframes blink {
+  90% {
+    transform: none;
+    animation-timing-function: ease-in;
+  }
+  93% {
+    transform: translateY(30px) scaleY(0);
+  }
+  100% {
+    animation-timing-function: ease-out;
   }
 }
-
-@media only screen and (max-width: 768px) {
-  .head-container {
-    width: 100%;
+@keyframes squeeze {
+  90% {
+    transform: none;
+    animation-timing-function: ease-in;
+  }
+  93% {
+    transform: translateY(3px) scaleY(0.8);
+  }
+  100% {
+    animation-timing-function: ease-out;
   }
 }

@@ -4,17 +4,13 @@
     {% include head.html %}
   </head>
   <body>
+    {% include lang.html %}
     {% include header.html %}
-
-    <section class='container main-container pt-2'>
-      <div class='text-center'>
-        {% include lang.html %}
-      </div>
+    <section class='container main-container text-white'>
       <div class='pb-5 pt-2'>
         {{ content }}
       </div>
     </section>
-
     {% include footer.html %}
   </body>
 </html>

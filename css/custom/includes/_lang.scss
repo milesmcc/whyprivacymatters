@@ -1,7 +1,18 @@
-.btn-secondary {
-  font-family: 'IBM Plex Sans', sans-serif;
-}
-
 .dropdown-item {
   font-family: 'IBM Plex Sans', sans-serif;
+  color: black !important;
+}
+
+.lang {
+  bottom: 5px;
+  right: 5px;
+  position: fixed;
+}
+
+@media only screen and (max-width: 576px) {
+  .lang {
+      top: 5px;
+      right: 5px;
+      position: absolute;
+  }
 }
