@@ -1,5 +1,23 @@
-theme: jekyll-theme-minimal
+# Site settings
 title: Why Privacy Matters
+logo: assets/icon.png
 description: Privacy is important. Here are some simple reasons why.
 url: https://whyprivacymatters.org
-logo: assets/icon.png
+
+
+# Gems
+gems:
+- jekyll-seo-tag
+
+# Build Settings
+permalink: :title/
+sass:
+  sass_dir: css
+
+# Paths
+defaults:
+  -
+    scope:
+      path: "README.md"
+    values:
+      permalink: "/"
