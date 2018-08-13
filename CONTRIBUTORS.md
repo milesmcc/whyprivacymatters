@@ -10,33 +10,33 @@ Much of the content was compiled out of [this](https://www.reddit.com/r/privacy/
 **Project lead** — [Miles McCain](https://rmrm.io)
 
 #### Translators
-[Portuguese](/translations/pt.html): [Nekiga](https://www.reddit.com/r/translator/comments/752qcf/english_any_translating_whyprivacymattersorg_a/do2zvbr/)
+[Portuguese](/translations/pt): [Nekiga](https://www.reddit.com/r/translator/comments/752qcf/english_any_translating_whyprivacymattersorg_a/do2zvbr/)
 
-[Spanish](/translations/es.html): [SparklezMadeMe](https://www.reddit.com/r/translator/comments/752qcf/english_any_translating_whyprivacymattersorg_a/do31tbt/), [xavrb](https://github.com/xavrb)
+[Spanish](/translations/es): [SparklezMadeMe](https://www.reddit.com/r/translator/comments/752qcf/english_any_translating_whyprivacymattersorg_a/do31tbt/), [xavrb](https://github.com/xavrb)
 
-[Dutch](/translations/nl.html): [09ymmit07](https://www.reddit.com/r/translator/comments/752qcf/english_any_translating_whyprivacymattersorg_a/do32oqw/)
+[Dutch](/translations/nl): [09ymmit07](https://www.reddit.com/r/translator/comments/752qcf/english_any_translating_whyprivacymattersorg_a/do32oqw/)
 
-[Danish](/translations/da.html): [swedenisntrealok](https://www.reddit.com/r/translator/comments/752qcf/english_any_translating_whyprivacymattersorg_a/do33mt9/)
+[Danish](/translations/da): [swedenisntrealok](https://www.reddit.com/r/translator/comments/752qcf/english_any_translating_whyprivacymattersorg_a/do33mt9/)
 
-[Esperanto](/translations/eo.html): [Terpomo11](https://www.reddit.com/r/translator/comments/752qcf/english_any_translating_whyprivacymattersorg_a/do3b275/)
+[Esperanto](/translations/eo): [Terpomo11](https://www.reddit.com/r/translator/comments/752qcf/english_any_translating_whyprivacymattersorg_a/do3b275/)
 
-[German](/translations/de.html): [Rafficer](https://www.reddit.com/r/translator/comments/752qcf/english_any_translating_whyprivacymattersorg_a/do3ci8f/)
+[German](/translations/de): [Rafficer](https://www.reddit.com/r/translator/comments/752qcf/english_any_translating_whyprivacymattersorg_a/do3ci8f/)
 
-[Catalan](/translations/ca.html): [iiqof](https://www.reddit.com/r/translator/comments/752qcf/english_any_translating_whyprivacymattersorg_a/do3fuo6/)
+[Catalan](/translations/ca): [iiqof](https://www.reddit.com/r/translator/comments/752qcf/english_any_translating_whyprivacymattersorg_a/do3fuo6/)
 
-[Polish](/translations/pl.html): [Glamhoth](https://github.com/Glamhoth/whyprivacymatters)
+[Polish](/translations/pl): [Glamhoth](https://github.com/Glamhoth/whyprivacymatters)
 
-[Slovak](/translations/sk.html): [zlatovlas](https://www.reddit.com/r/translator/comments/752qcf/english_any_translating_whyprivacymattersorg_a/do4r01v/)
+[Slovak](/translations/sk): [zlatovlas](https://www.reddit.com/r/translator/comments/752qcf/english_any_translating_whyprivacymattersorg_a/do4r01v/)
 
-[Albanian](/translations/sq.html): [AnXh3L0](https://www.reddit.com/r/translator/comments/752qcf/english_any_translating_whyprivacymattersorg_a/doazzlx/)
+[Albanian](/translations/sq): [AnXh3L0](https://www.reddit.com/r/translator/comments/752qcf/english_any_translating_whyprivacymattersorg_a/doazzlx/)
 
-[French](/translations/fr.html): [oxodao](https://github.com/milesmcc/whyprivacymatters/pull/4)
+[French](/translations/fr): [oxodao](https://github.com/milesmcc/whyprivacymatters/pull/4)
 
-[Russian](/translations/ru.html): [ibarakaiev](https://github.com/ibarakaiev)
+[Russian](/translations/ru): [ibarakaiev](https://github.com/ibarakaiev)
 
-[Ukrainian](/translations/ua.html): [ibarakaiev](https://github.com/ibarakaiev)
+[Ukrainian](/translations/ua): [ibarakaiev](https://github.com/ibarakaiev)
 
-[Swedish](/translations/sv.html): [Daniel Eliassen](https://github.com/danieleliassen)
+[Swedish](/translations/sv): [Daniel Eliassen](https://github.com/danieleliassen)
 
 #### Other contributors
 [abeer0022](https://www.reddit.com/r/privacy/comments/6w5nw6/why_does_privacy_matter_help_me_write_16_short/dm5i5vt/?utm_content=permalink&utm_medium=front&utm_source=reddit&utm_name=privacy)
