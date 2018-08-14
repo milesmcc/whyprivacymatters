@@ -1,15 +1,20 @@
 <!doctype html>
-<html lang="{{ site.lang | default: "en-US" }}">
-  <head>
-    {% include head.html %}
-  </head>
-  <body>
-    {% include header.html %}
+<html lang="{{ site.lang | default: " en-US " }}">
 
-    <section class='container main-container py-5 text-light'>
-      {{ content }}
-    </section>
+<head>
+  {% include head.html %}
+</head>
 
-    {% include footer.html %}
-  </body>
+<body>
+  {% include header.html %}
+  <div class="back-button">
+    <a class="btn btn-outline-secondary" href="{{site.url}}">Home</a>
+  </div>
+  <section class='container main-container py-5 text-light'>
+    {{ content }}
+  </section>
+
+  {% include footer.html %}
+</body>
+
 </html>
