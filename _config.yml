@@ -6,9 +6,9 @@ url: https://whyprivacymatters.org
 lang: en
 
 
-# Gems
-gems:
+plugins:
 - jekyll-seo-tag
+- jekyll-sitemap
 
 # Build Settings
 permalink: :title/
