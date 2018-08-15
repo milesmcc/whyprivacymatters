@@ -15,6 +15,9 @@ permalink: :title/
 sass:
   sass_dir: css
 
+webmaster_verifications:
+  google: YeDX7szNUt5VC8TQGBVYZVJfAKRMQJgssEebvdAodhk
+
 # Paths
 defaults:
   -
