@@ -2,24 +2,25 @@
   <div class="dropdown">
     <button class="btn btn-outline-secondary btn-lg dropdown-toggle" type="button" id="dropdownMenuButton" data-toggle="dropdown"
       aria-haspopup="true" aria-expanded="false">
-      <i class="fa fa-language" aria-hidden="true"></i>
+      <i class="fa fa-globe" aria-hidden="true"></i>
+      {{page.lang | upcase}}
     </button>
     <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
-      <a class="dropdown-item" href="{{ '/' | relative_url }}">English</a>
-      <a class="dropdown-item" href="{{ '/translations/es' | relative_url }}">Español</a>
-      <a class="dropdown-item" href="{{ '/translations/fr' | relative_url }}">Français</a>
-      <a class="dropdown-item" href="{{ '/translations/ru' | relative_url }}">Русский</a>
-      <a class="dropdown-item" href="{{ '/translations/de' | relative_url }}">Deutsch</a>
-      <a class="dropdown-item" href="{{ '/translations/nl' | relative_url }}">Nederlands</a>
-      <a class="dropdown-item" href="{{ '/translations/pt' | relative_url }}">Português</a>
-      <a class="dropdown-item" href="{{ '/translations/pl' | relative_url }}">Polski</a>
-      <a class="dropdown-item" href="{{ '/translations/da' | relative_url }}">Dansk</a>
-      <a class="dropdown-item" href="{{ '/translations/sk' | relative_url }}">Slovenčina</a>
-      <a class="dropdown-item" href="{{ '/translations/ua' | relative_url }}">Українська</a>
-      <a class="dropdown-item" href="{{ '/translations/sq' | relative_url }}">Shqip</a>
-      <a class="dropdown-item" href="{{ '/translations/eo' | relative_url }}">Esperanto</a>
-      <a class="dropdown-item" href="{{ '/translations/ca' | relative_url }}">Catalan</a>
-      <a class="dropdown-item" href="{{ '/translations/sv' | relative_url }}">Svenska</a>
+      <a class="dropdown-item {% if page.lang == 'en' %}active{% endif %}" href="{{ '/' | relative_url }}">English</a>
+      <a class="dropdown-item {% if page.lang == 'es' %}active{% endif %}" href="{{ '/translations/es' | relative_url }}">Español</a>
+      <a class="dropdown-item {% if page.lang == 'fr' %}active{% endif %}" href="{{ '/translations/fr' | relative_url }}">Français</a>
+      <a class="dropdown-item {% if page.lang == 'ru' %}active{% endif %}" href="{{ '/translations/ru' | relative_url }}">Русский</a>
+      <a class="dropdown-item {% if page.lang == 'de' %}active{% endif %}" href="{{ '/translations/de' | relative_url }}">Deutsch</a>
+      <a class="dropdown-item {% if page.lang == 'nl' %}active{% endif %}" href="{{ '/translations/nl' | relative_url }}">Nederlands</a>
+      <a class="dropdown-item {% if page.lang == 'pt' %}active{% endif %}" href="{{ '/translations/pt' | relative_url }}">Português</a>
+      <a class="dropdown-item {% if page.lang == 'pl' %}active{% endif %}" href="{{ '/translations/pl' | relative_url }}">Polski</a>
+      <a class="dropdown-item {% if page.lang == 'da' %}active{% endif %}" href="{{ '/translations/da' | relative_url }}">Dansk</a>
+      <a class="dropdown-item {% if page.lang == 'sk' %}active{% endif %}" href="{{ '/translations/sk' | relative_url }}">Slovenčina</a>
+      <a class="dropdown-item {% if page.lang == 'ua' %}active{% endif %}" href="{{ '/translations/ua' | relative_url }}">Українська</a>
+      <a class="dropdown-item {% if page.lang == 'sq' %}active{% endif %}" href="{{ '/translations/sq' | relative_url }}">Shqip</a>
+      <a class="dropdown-item {% if page.lang == 'eo' %}active{% endif %}" href="{{ '/translations/eo' | relative_url }}">Esperanto</a>
+      <a class="dropdown-item {% if page.lang == 'ca' %}active{% endif %}" href="{{ '/translations/ca' | relative_url }}">Catalan</a>
+      <a class="dropdown-item {% if page.lang == 'sv' %}active{% endif %}" href="{{ '/translations/sv' | relative_url }}">Svenska</a>
     </div>
   </div>
 </div>
