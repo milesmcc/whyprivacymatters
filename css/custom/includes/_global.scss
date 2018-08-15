@@ -16,7 +16,7 @@ h4 {
     font-family: 'IBM Plex Sans', sans-serif;
     font-size: 1.3em;
     padding-bottom: 1em;
-    text-align: justify;
+    text-align: left;
 }
 
 p {
@@ -40,38 +40,53 @@ a:active {
 }
 
 .main-container {
-    width: 40%;
-    min-width: 200px;
+    max-width: 38em;
+    font-size: 20px;
 }
 
-@media only screen and (max-width: 1200px) {
-    .main-container {
-        width: 50%;
-    }
-}
-
-@media only screen and (max-width: 992px) {
-    .main-container {
-        width: 60%;
-    }
-}
-
-@media only screen and (max-width: 768px) {
-    .main-container {
-        width: 75%;
-    }
-}
-
-@media only screen and (max-width: 576px) {
-    .main-container {
-        width: 90%;
-    }
-}
-
+// @media only screen and (max-width: 1200px) {
+//     .main-container {
+//         width: 50%;
+//     }
+// }
+// @media only screen and (max-width: 992px) {
+//     .main-container {
+//         width: 60%;
+//     }
+// }
+// @media only screen and (max-width: 768px) {
+//     .main-container {
+//         width: 75%;
+//     }
+// }
+// @media only screen and (max-width: 576px) {
+//     .main-container {
+//         width: 90%;
+//     }
+// }
 hr {
     display: none;
 }
 
 .back-button {
     text-align: center;
+}
+
+h3,
+h4,
+h5,
+h6 {
+    line-height: 1.5;
+    font-size: inherit;
+}
+
+h1,
+h2 {
+    margin-bottom: 2em;
+}
+
+@media only screen and (min-width: 992px) {
+    h4 {
+        font-size: 24px;
+    }
 }

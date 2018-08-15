@@ -3,10 +3,19 @@
   color: black !important;
 }
 
+.dropdown-item.active, .dropdown-item:hover {
+  background-color: #6a1b9a44;
+  border-bottom: none;
+}
+
 .lang {
   bottom: 5px;
   right: 5px;
   position: fixed;
+}
+
+.dropdown button {
+  font-family: 'IBM Plex Mono', monospace;
 }
 
 @media only screen and (max-width: 576px) {
