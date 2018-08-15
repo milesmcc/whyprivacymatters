@@ -1,5 +1,8 @@
 ---
 layout: default
+title: Why Privacy Matters
+description: Privacy is important. Here are some simple reasons why.
+lang: en
 ---
 
 ## Why Privacy Matters
