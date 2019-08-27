@@ -38,6 +38,8 @@ Much of the content was compiled out of [this](https://www.reddit.com/r/privacy/
 
 [Swedish](/translations/sv): [Daniel Eliassen](https://github.com/danieleliassen)
 
+[Italian](/translations/it): [Alberto Strappazzon](https://github.com/Strappazzon)
+
 #### Other contributors
 [abeer0022](https://www.reddit.com/r/privacy/comments/6w5nw6/why_does_privacy_matter_help_me_write_16_short/dm5i5vt/)
 
