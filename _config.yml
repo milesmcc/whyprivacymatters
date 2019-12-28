@@ -14,6 +14,7 @@ plugins:
 permalink: :title/
 sass:
   sass_dir: css
+  style: compressed
 
 webmaster_verifications:
   google: YeDX7szNUt5VC8TQGBVYZVJfAKRMQJgssEebvdAodhk
