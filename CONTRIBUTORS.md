@@ -72,3 +72,5 @@ Much of the content was compiled out of [this](https://www.reddit.com/r/privacy/
 [Bealer](https://www.reddit.com/r/privacy/comments/6w5nw6/why_does_privacy_matter_help_me_write_16_short/dnwhnii/)
 
 [an-k45](https://github.com/an-k45)
+
+[Strappazzon](https://github.com/Strappazzon)
