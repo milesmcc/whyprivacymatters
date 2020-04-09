@@ -26,7 +26,7 @@ layout: default
 -----
 
 ### Próximos pasos
-¿Quiere tomar medidas para protegerse? Siga [esta](https://ssd.eff.org/) guía de la Fundación Frontera Electrónica.
+¿Quiere tomar medidas para protegerse? Siga [esta](https://ssd.eff.org/es) guía de la Fundación Frontera Electrónica.
 
 -----
 Spanish translation by [SparklezMadeMe](https://www.reddit.com/r/translator/comments/752qcf/english_any_translating_whyprivacymattersorg_a/do31tbt/), little improvements by [xavrb](https://github.com/xavrb)
