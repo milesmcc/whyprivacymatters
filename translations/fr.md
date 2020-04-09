@@ -26,7 +26,7 @@ layout: default
 -----
 
 ### Étape suivante
-Vous voulez prendre des mesures pour vous protéger ? Suivez [ce guide](https://ssd.eff.org/) de l'Electronic Frontier Foundation.
+Vous voulez prendre des mesures pour vous protéger ? Suivez [ce guide](https://ssd.eff.org/fr) de l'Electronic Frontier Foundation.
 
 -----
 French translation by [Oxodao](https://github.com/milesmcc/whyprivacymatters/pull/4/commits/a9bd1f228e279ba2d067c94bdd89b756bf59dabb)
