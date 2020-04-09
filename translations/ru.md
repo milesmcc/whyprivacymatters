@@ -25,7 +25,7 @@ title: Почему ваша конфиденциальность важна
 -----
 
 ### Следующие шаги
-Хотите узнать, что делать дальше, чтобы обезопасить себя? Прочитайте [это](https://ssd.eff.org/) руководство от Electronic Frontier Foundation.
+Хотите узнать, что делать дальше, чтобы обезопасить себя? Прочитайте [это](https://ssd.eff.org/ru) руководство от Electronic Frontier Foundation.
 
 -----
 Russian translation by [ibarakaiev](https://github.com/ibarakaiev).
