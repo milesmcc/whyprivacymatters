@@ -26,7 +26,7 @@ layout: default
 -----
 
 ### Próximos passos
-Quer tomar medidas para se proteger? Siga [este](https://ssd.eff.org/) guia pela Electronic Frontier Foundation.
+Quer tomar medidas para se proteger? Siga [este](https://ssd.eff.org/pt-br) guia pela Electronic Frontier Foundation.
 
 -----
 Portuguese translation by [Nekiga](https://www.reddit.com/r/translator/comments/752qcf/english_any_translating_whyprivacymattersorg_a/do2zvbr/).
