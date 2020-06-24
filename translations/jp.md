@@ -8,13 +8,13 @@ lang: jp
 ## プライバシーはなぜ大切なのか
 
 #### Knowledge is power; Knowledge about you is power over you. Your information will be used to anticipate your actions and manipulate the way you shop, vote, and think.
-#### 知識は力なり。あなたのことを知るということは、あなた以上に力を持つということ。あなたに関する情報はあなたの行動の予測、あなたの買い物のしかたや投票のしかたや考え方を操作することに使われてしまいます。
+#### 知識は力なり。あなたのことを知るということは、あなた以上に力を持つということ。あなたに関する情報はあなたの行動の予測、買い物のしかた、投票のしかたや考え方を操作することに使われてしまいます。
 
 #### Without privacy, you might be so afraid that you're being judged by others that you won't try or learn new things, even if you're not doing anything wrong.
-#### あなたは何も悪いことをしているわけではないのに、プライバシーなしでは、あなたは他人の目が気になりすぎて新しいことに挑戦したり、新しいことを学んだりできなくなるかもしれないのです。
+#### 悪事を働く事のない人でもプライバシーなしでは、他人の目を気にしすぎて新しいことに挑戦したり、新しいことを学んだりできなくなります。
 
 #### Your personal information and private communications can be "cherrypicked" to make you look like a bad person or a criminal, even if you're not.
-#### あなたの個人情報とプライベートなコミュニケーションはあなたを本当は違うのに、悪人や犯罪者に見えるように使うことができます。
+#### インターネット上での個人情報とプライベートなコミュニケーションは本来のあなたは違うのに、あなたを悪人や犯罪者に見えるように使うことができます。
 
 #### Not all information in your control is yours to share. Information shared privately with you by friends, family, and coworkers is not yours to reveal to a government, company, or another person.
 #### あなたが管理する情報は全て共有するためのものではありません。あなたがあなたの友達、家族、同僚と共有した情報は政府、企業、またはその他の人に見せるためのものではありません。
