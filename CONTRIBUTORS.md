@@ -40,6 +40,8 @@ Much of the content was compiled out of [this](https://www.reddit.com/r/privacy/
 
 [Italian](/translations/it): [Alberto Strappazzon](https://github.com/Strappazzon)
 
+[Japanese](/translations/jp): [Yumi Izumi](https://github.com/aapl-yumi)
+
 #### Other contributors
 [abeer0022](https://www.reddit.com/r/privacy/comments/6w5nw6/why_does_privacy_matter_help_me_write_16_short/dm5i5vt/)
 
