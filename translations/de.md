@@ -7,7 +7,7 @@ layout: default
 
 ## Warum Privatsphäre wichtig ist
 
-#### Wissen ist Macht. Wissen über dich bedeutet Macht über dich. Deine Informationen werden benutzt, um dein Handeln zu berechnen und um die Einkauf- oder Wahlverhalten und deine Meinungen zu beeinflussen.
+#### Wissen ist Macht. Wissen über dich bedeutet Macht über dich. Deine Informationen werden benutzt, um dein Handeln zu berechnen und um dein Einkaufs- oder Wahlverhalten und deine Meinungen zu beeinflussen.
 
 #### Ohne Privatsphäre bist du vielleicht so verängstigt davor von anderen verurteilt zu werden, dass du dich nicht traust neue Dinge zu lernen oder auszuprobieren, obwohl du eigentlich nichts Falsches machst.
 
