@@ -42,6 +42,8 @@ Much of the content was compiled out of [this](https://www.reddit.com/r/privacy/
 
 [Japanese](/translations/jp): [Yumi Izumi](https://github.com/aapl-yumi)
 
+[Malayalam](/translations/ml): [Devika J.](https://zonedoutzone.blogspot.com/)
+
 #### Other contributors
 [abeer0022](https://www.reddit.com/r/privacy/comments/6w5nw6/why_does_privacy_matter_help_me_write_16_short/dm5i5vt/)
 
@@ -76,3 +78,5 @@ Much of the content was compiled out of [this](https://www.reddit.com/r/privacy/
 [an-k45](https://github.com/an-k45)
 
 [Strappazzon](https://github.com/Strappazzon)
+
+[sudiptog81](https://github.com/sudiptog81)
