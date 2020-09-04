@@ -5,7 +5,6 @@ description: Privacy is important. Here are some simple reasons why.
 url: https://whyprivacymatters.org
 lang: en
 
-
 plugins:
 - jekyll-seo-tag
 - jekyll-sitemap
