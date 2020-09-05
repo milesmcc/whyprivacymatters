@@ -44,6 +44,8 @@ Much of the content was compiled out of [this](https://www.reddit.com/r/privacy/
 
 [Malayalam](/translations/ml): [Devika J.](https://zonedoutzone.blogspot.com/)
 
+[Hindi](/translations/hi): [Muskan Abbasi](https://www.instagram.com/muskanabbasi60/)
+
 #### Other contributors
 [abeer0022](https://www.reddit.com/r/privacy/comments/6w5nw6/why_does_privacy_matter_help_me_write_16_short/dm5i5vt/)
 
