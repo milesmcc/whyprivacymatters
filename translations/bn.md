@@ -30,4 +30,4 @@ lang: bn
 
 ---
 
-Bangla translation by [Tahmid02016](https://tahmid01016.github.io).
+Bangla translation by [Tahmid02016](https://tahmid02016.github.io).
