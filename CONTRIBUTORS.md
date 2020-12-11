@@ -40,6 +40,8 @@ Much of the content was compiled out of [this](https://www.reddit.com/r/privacy/
 
 [Italian](/translations/it): [Alberto Strappazzon](https://github.com/Strappazzon)
 
+[Vietnamese](/translations/vi): [Meigyoku Thmn](https://github.com/Meigyoku-Thmn)
+
 [Japanese](/translations/jp): [Yumi Izumi](https://github.com/aapl-yumi)
 
 [Malayalam](/translations/ml): [Devika J.](https://zonedoutzone.blogspot.com/)
