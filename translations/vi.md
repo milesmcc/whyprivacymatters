@@ -15,7 +15,7 @@ lang: vi
 
 #### Không phải cứ thông tin mà nằm trong tay quý vị thì là của quý vị để mà đi chia sẻ. Thông tin mà được chia sẻ một cách riêng tư từ bạn bè, gia đình, và đồng nghiệp với quý vị thì không phải là của quý vị để mà tiết lộ với chính phủ, đoàn thể, hay bất cứ người nào khác.
 
-#### Bằng việc thực hành quyền được riêng tư của quý vị, quý vị cũng sẽ giúp những người khác, chẳng hạn nhà hoạt động hay ký giả, có thể dễ dàng thực hành quyền riêng tư như vậy mà không phải chìa mình ra.
+#### Bằng việc thực hành quyền được riêng tư của quý vị, quý vị cũng sẽ tạo điều kiện cho những người khác, chẳng hạn nhà hoạt động hay ký giả, có thể dễ dàng thực hành quyền riêng tư như vậy hơn mà không bị nổi bật ra.
 
 #### Quý vị không và sẽ không bị phán xét vì chuẩn mực của bản thân quý vị. Mỗi người và mỗi tổ chức đều có chuẩn mực khác nhau, mà chuẩn mực thì lại đổi dời theo thời gian. Dù hôm nay hành vi của quý vị được coi là chấp nhận được đi nữa, ngày mai nó vẫn có thể được dùng để chống lại quý vị.
 
