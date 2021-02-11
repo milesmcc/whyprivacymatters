@@ -27,3 +27,4 @@ lang: tr
 
 ### Sonraki adımlar
 Kendinizi korumak için adım atmak ister misiniz? Electronic Frontier Foundation tarafından hazırlanan [bu](https://ssd.eff.org/) kılavuzu izleyin.
+Türkçe Çeviri: [Ali Geyik](https://github.com/AliGeyik)
