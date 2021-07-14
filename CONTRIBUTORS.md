@@ -20,6 +20,8 @@ Much of the content was compiled out of [this](https://www.reddit.com/r/privacy/
 
 [Esperanto](/translations/eo): [Terpomo11](https://www.reddit.com/r/translator/comments/752qcf/english_any_translating_whyprivacymattersorg_a/do3b275/)
 
+[Galician](/translations/gl): [Pilar Mera](https://github.com/decrecementofeliz)
+
 [German](/translations/de): [Rafficer](https://www.reddit.com/r/translator/comments/752qcf/english_any_translating_whyprivacymattersorg_a/do3ci8f/)
 
 [Catalan](/translations/ca): [iiqof](https://www.reddit.com/r/translator/comments/752qcf/english_any_translating_whyprivacymattersorg_a/do3fuo6/)
